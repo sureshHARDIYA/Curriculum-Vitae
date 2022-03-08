@@ -132,6 +132,9 @@
     pdfpagemode   = UseNone,% do not show thumbnails or bookmarks on opening
     pdfstartpage  = 1,
     pdfcreator    = {\LaTeX{} with 'moderncv' package},
+    colorlinks=true,
+    linkcolor=color1,
+    urlcolor=color1,
 %    pdfproducer   = {\LaTeX{}},% will/should be set automatically to the correct TeX engine used
     bookmarksopen = true,
     bookmarksdepth= 2,% to show sections and subsections
